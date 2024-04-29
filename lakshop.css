@@ -1,0 +1,454 @@
+.lakslogo
+{
+    height:50px; 
+	margin-top:20px;
+	
+}
+.laks-logo
+{
+    height:40px; 
+	
+	
+}
+.lakshead
+{
+	margin-left:65px;
+	margin-top:-38px;
+	font-size:25px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+}
+.ul
+{
+	margin-top:-25px;
+	
+}
+.Home
+{
+    text-decoration:none;
+    color:black;  
+    padding:15px;	
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	
+}
+.Product
+{
+	text-decoration:none;
+    color:black;  
+	padding:15px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+}
+.About
+{
+	text-decoration:none;
+    color:black;  
+	padding:15px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+}
+.Order
+{
+	text-decoration:none;
+    color:black;  
+	padding:15px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+}
+.Contact
+{
+    text-decoration:none;
+    color:black;  	
+	padding:15px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;	
+}
+.search
+{
+	margin-top:-5px;
+	text-decoration:none;
+    color:black;  	
+	padding:10px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;	
+    backdrop-filter: blur(10px);
+}
+.user
+{
+	margin-top:2px;
+	text-decoration:none;
+    color:black;  	
+	padding:15px;
+}
+#click
+{
+    display:none;	
+}
+.menu
+{
+    display:none;	
+}
+.panelhead1
+{
+	text-decoration:none;
+    color:black;  	
+	padding:15px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+    font-size:17px;	
+}
+.panelhead2
+{
+	text-decoration:none;
+    color:black;  	
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+    font-size:17px;		
+}
+.panelhead3
+{
+	text-decoration:none;
+    color:black;  	
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+    font-size:17px;		
+}
+.panelhead4
+{
+	text-decoration:none;
+    color:black;  	
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;	
+	font-size:17px;	
+}
+.panelhead5
+{
+	text-decoration:none;
+    color:black;  	
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;	
+	font-size:17px;	
+}
+.panelhead6
+{
+	text-decoration:none;
+    color:black;  		
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;	
+	font-size:17px;	
+}
+
+.two
+{
+    border-style:solid;
+	border-width:1px;
+	padding:5px;
+	border-radius:5px;
+	font-size:10px;
+	
+}
+.header-sticky
+{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+	backdrop-filter:blur(5px);
+    border: 1px solid white;	
+	border-bottom-color:#d9dedb;
+	z-index:9999;
+	
+}
+.header-end
+{
+	background-image:url("E:/drawing model/wood jewels.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:scroll;
+    background-size: 100% 1000px;
+	
+}
+.header-text1
+{
+	color:white;
+	font-family:Georgia;
+    font-optical-sizing: auto;
+    font-weight:100px;
+    font-style: normal;
+	padding-top:70px;
+	font-size:25px;
+	
+}
+.header-text2
+{
+	color:white;
+	font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	padding:30px;
+	padding-bottom:5px;
+	font-size:75px;
+}
+.header-text3
+{
+	color:white;
+	padding-top:5px;
+	padding-bottom:40px;
+	font-size:25px;
+	font-family:Georgia;
+}
+.see-more
+{
+	margin-left:500px;
+	margin-right:503px;
+	text-decoration:none;
+	color:white;
+	font-size:19px;
+	border-style:solid;
+    border-width:2px;
+	border-radius:30px;
+	padding:5px;
+	border-color:black;
+	background-color:black;	
+}
+.footer
+{
+	border-style:solid;
+	border-width:0px;
+	border-color:gray;
+	border-radius:20px;
+	padding-top:30px;
+	margin-left:20px;
+	margin-right:20px;
+	background-color:#ded3ba;
+	
+}
+.footer-title
+{
+	font-size:25px;
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+    text-align:left;
+	padding-top:13px;
+}
+.dt1
+{ 
+    font-family:Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	
+}
+.dt2
+{
+	font-family:Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	
+}
+.showmore
+{
+    text-decoration:none;
+    color:black;
+	font-family: Garamond, Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	
+	
+}
+.Write
+{
+   	border-style:solid;
+	border-width:0px;
+	border-color:black;
+	border-radius:20px;
+	padding-bottom:20px;
+	background-color:white;
+	box-shadow:0px 0px 10px #83a6eb;
+	padding:20px;
+	width:380px;
+}
+#Write
+{
+	padding-top:50px;
+	padding-bottom:40px;
+}
+.name
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-variant:small-caps;
+	font-size:17px;
+	padding:5px;
+
+}
+.email
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:17px;
+	padding:5px;
+	
+}
+.number
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:17px;
+	padding:5px;
+}
+.message
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:17px;
+	padding:5px;
+	padding-bottom:40px;
+}
+.submit
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:15px;
+	padding:5px;
+}
+.password
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:17px;
+	padding:5px;	
+}
+.login
+{	
+    font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:15px;
+	padding:5px;
+	padding-left:15px;
+	padding-right:15px;
+    border-radius:5px;
+	border-width:1px;
+}
+.Forget
+{
+	text-decoration:none;
+    color:black;  
+	padding:15px;
+	
+}
+.Remember
+{
+	font-family:Georgia ,Papyrus;
+	font-optical-sizing: auto;
+    font-style: normal;
+	font-size:17px;
+	padding:5px;
+}
+@media only screen and (max-width:1015){
+	.ul{
+		
+	}
+}
+@media only screen and (max-width:778px) {
+
+        .li {
+            padding: 10px;
+
+        }
+
+        .menu {
+            display: block;
+            font-size: 25px;
+            font-weight: bold;
+            color: black;
+        }
+		.Home
+		{
+			color:#fff;
+		}
+        .Product
+		{
+			color:#fff;
+		}
+        .About
+		{
+			color:#fff;
+		}
+        .Order
+		{
+			color:#fff;
+		}
+        .Contact
+		{
+			color:#fff;
+		}
+        .search
+		{
+			color:#fff;
+		}
+		.user
+		{
+			color:#fff;
+		}
+        
+        .ul {
+            width: 100%;
+            height: 600px;
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            top: 80px;
+            left: -120%;
+            background-color: #000000b5;
+            backdrop-filter: blur(10px);
+			
+			
+        }
+
+        #click:checked~ul {
+            left: 0%;
+            transition: all 0.5s ease;
+        }
+
+    }
